@@ -41,8 +41,7 @@
 	}
 	.video-frame {
 		width: 100%;
-		height: 100%;
-		aspect-ratio: 16 / 9;
+		aspect-ratio: 16/9;
 		border-radius: 8px;
 		overflow: hidden;
 	}
