@@ -1,6 +1,6 @@
 <h1 class="title">Devin Civiello</h1>
 
-<p class="description">Romans 1:16</p>
+<p class="description">When fishermen cannot go to sea, they repair nets.</p>
 
 <div class="media-section">
 	<div class="media-container">
